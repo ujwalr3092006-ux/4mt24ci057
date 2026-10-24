@@ -1,2 +1,2 @@
-print("ISHU")
-print("This is a sample Python script.")
+print("ujweal")
+print("chalu pandey")
