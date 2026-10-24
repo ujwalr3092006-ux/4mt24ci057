@@ -1,1 +1,1 @@
-print(" Hello, sexy ujwal")
+print(" Hello, ujwal")
