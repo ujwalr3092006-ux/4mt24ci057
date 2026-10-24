@@ -1,1 +1,1 @@
-print("a good gay")
+print("a danush gay")
