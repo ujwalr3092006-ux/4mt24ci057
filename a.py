@@ -1,2 +1,2 @@
 print("a good day")
-print("I am fine as u expected")
+print("I am fine as u expecte")
