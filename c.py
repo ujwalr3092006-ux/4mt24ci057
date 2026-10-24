@@ -1,1 +1,1 @@
-print("ujwal,navaneeth gay sexy ")
+print("ujwal ")
