@@ -1,1 +1,1 @@
-print("a good day")
+print("a good gay")
